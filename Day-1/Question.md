@@ -3,7 +3,7 @@
 ### 🔹 **Day 1 DSA Question (C++)**
 
 **Topic:** Arrays (Basics + Logic Thinking)
-
+**Difficulty** 🟢 Easy
 #### 🧩 Problem: *Find the Largest Element in an Array*
 
 **Question:**

@@ -26,10 +26,11 @@ Day-01/
 
 ## 📈 Progress Tracker
 
-| Day | Problem                              | Topic  | Difficulty  |
-| --- | ------------------------------------ | ------ | ----------- |
-| 1   | Find the Largest Element in an Array | Arrays | 🟢 Beginner |
-| ... | Coming soon...                       | ...    | ...         |
+| Day | Problem                                     | Topic  | Difficulty  |
+| --- | ------------------------------------------- | ------ | ----------  |
+| 1   | Find the Largest Element in an Array        | Arrays | 🟢 Easy     |
+| 2   | Find the Second Largest Element in an Array | Array  | 🟢 Easy     |
+| ... | Coming soon...                              | ...    | ...         |
 
 ---
 
@@ -65,3 +66,6 @@ This project is licensed under the **MIT License** — feel free to learn from a
 
 If you’re also doing DSA or learning similar topics, feel free to connect and collaborate!
 Let’s grow together as better problem-solvers 💪
+
+
+<!-- 🟢🟡 -->

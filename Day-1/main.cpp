@@ -3,21 +3,23 @@ using namespace std;
 
 int main()
 {
-    int number;
+    int size;
     cout << "Enter the array here ";
-    cin >> number;
+    cin >> size;
 
-    int arr[number];
-    cout << "Enter " << number << " numbers ";
-    for (int i = 0; i < number; i++)
+    int elements[size];
+    cout << "Enter " << size << " numbers ";
+    for (int i = 0; i < size; i++)
     {
-        cin >> arr[i];
+        cin >> elements[i];
     }
 
-    int max = arr[0];
-    for(int i = 1; i < number; i++){
-        if(arr[i] > max){
-            max = arr[i];
+    int max = elements[0];
+    for (int i = 1; i < size; i++)
+    {
+        if (elements[i] > max)
+        {
+            max = elements[i];
         }
     }
 
