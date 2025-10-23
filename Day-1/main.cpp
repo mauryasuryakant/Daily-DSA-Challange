@@ -24,5 +24,6 @@ int main()
     }
 
     cout << "The largest element in array is " << max << endl;
+    system("pause");
     return 0;
 }
