@@ -33,6 +33,5 @@ int main()
 
     cout << "The second largest element in array is " << second << endl;
     cout << "The largest element in array is " << first << endl;
-    system("pause");
     return 0;
 }

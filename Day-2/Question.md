@@ -3,7 +3,7 @@
 ### 🔹 **Day 2 DSA Question (C++)**
 
 **Topic:** Arrays (Intermediate + Comparison Logic)
-**Difficulty:** 🟡 Easy
+**Difficulty:** 🟢 Beginner
 
 #### 🧩 Problem: *Find the Second Largest Element in an Array*
 
