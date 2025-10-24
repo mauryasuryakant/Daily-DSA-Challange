@@ -25,8 +25,10 @@ int main()
         }
     }
 
-    for (int i = 1; i < size; i++) {
-        if (elements[i] > second && elements[i] < first) {
+    for (int i = 1; i < size; i++)
+    {
+        if (elements[i] > second && elements[i] < first)
+        {
             second = elements[i];
         }
     }
