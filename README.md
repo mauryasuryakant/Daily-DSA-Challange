@@ -16,7 +16,7 @@ Each day’s solution is organized in a dedicated folder, containing:
 Example:
 
 ```
-Day-01/
+Day-XX/
  ├── Question.md
  ├── main.cpp
  └── main.exe
