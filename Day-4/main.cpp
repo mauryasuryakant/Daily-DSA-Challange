@@ -33,6 +33,6 @@ int main()
         cout << val << " ";
     }
     cout << endl;
-
+    system("pause");
     return 0;
 }
