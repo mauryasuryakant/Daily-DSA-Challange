@@ -31,7 +31,7 @@ Day-01/
 | 1   | Find the Largest Element in an Array            | Arrays | 🟢 Beginner     |
 | 2   | Find the Second Largest Element in an Array     | Array  | 🟡 Easy         |
 | 3   | Reverse an Array                                | Array  | 🟢 Beginner     |
-| 2   | Sort an Array in Ascending and Descending Order | Array  | 🟡 Easy         |
+| 4   | Sort an Array in Ascending and Descending Order | Array  | 🟡 Easy         |
 | ... | Coming soon...                                  | ...    | ...     |
 
 ---
