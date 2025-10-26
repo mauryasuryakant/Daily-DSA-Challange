@@ -18,8 +18,7 @@ Example:
 ```
 Day-XX/
  ├── Question.md
- ├── main.cpp
- └── main.exe
+ └── main.cpp
 ```
 
 ---
