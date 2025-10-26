@@ -26,13 +26,15 @@ Day-XX/
 
 ## 📈 Progress Tracker
 
-| Day | Problem                                         | Topic  | Difficulty   |
-| --- | ----------------------------------------------- | ------ | ------------ |
-| 1   | Find the Largest Element in an Array            | Array | 🟢 Beginner     |
+| Day | Problem                                         | Topic  | Difficulty      |
+| --- | ----------------------------------------------- | ------ | --------------- |
+| 1   | Find the Largest Element in an Array            | Array  | 🟢 Beginner     |
 | 2   | Find the Second Largest Element in an Array     | Array  | 🟡 Easy         |
 | 3   | Reverse an Array                                | Array  | 🟢 Beginner     |
 | 4   | Sort an Array in Ascending and Descending Order | Array  | 🟡 Easy         |
-| ... | Coming soon...                                  | ...    | ...     |
+| 5   | Find the Frequency of an Element in an Array    | Array  | 🟡 Easy         |
+| 6   | Count Even and Odd Elements in an Array         | Array  | 🟢 Beginner     |
+| ... | Coming soon...                                  | ...    | ...             |
 
 ---
 

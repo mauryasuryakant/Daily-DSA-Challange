@@ -1,51 +1,40 @@
-By ChatGPT
+### By ChatGPT
 
-🔹 Day 5 DSA Question (C++)
+### 🔹 **Day 5 DSA Question (C++)**
 
-Topic: Vectors (Sorting + STL Practice)
-Difficulty: 🟢 Beginner
+**Topic:** Arrays (Searching + Logic Building)
+**Difficulty:** 🟡 Easy
 
-🧩 Problem: Sort a Vector in Ascending and Descending Order
+#### 🧩 Problem: *Find the Frequency of an Element in an Array*
 
-Question:
-Write a C++ program to sort a vector of integers in both ascending and descending order.
-Display the vector before sorting, after ascending sort, and after descending sort.
-
-
----
-
-🧠 Example Input:
-
-6
-12 7 3 15 9 1
-
-✅ Expected Output:
-
-Original Vector: 12 7 3 15 9 1
-Sorted (Ascending): 1 3 7 9 12 15
-Sorted (Descending): 15 12 9 7 3 1
-
+**Question:**
+Write a C++ program to find how many times a **specific element** appears in an array.
+The user will enter the array size, elements, and then the number whose frequency needs to be found.
 
 ---
 
-💡 Hints:
+#### 🧠 **Example Input:**
 
-1. Use the STL Vector container:
+```
+6  
+2 3 4 2 1 2  
+2
+```
 
-vector<int> arr;
+#### ✅ **Expected Output:**
 
+```
+Element 2 appears 3 times in the array.
+```
 
-2. Input values using a loop and push_back().
+---
 
+#### 💡 **Hints:**
 
-3. Sort ascending:
+1. Take input for array size and elements.
+2. Use a **loop** to count how many times the given element appears.
+3. Use an **if condition** to compare each element with the target.
+4. Print the final count.
+5. (Bonus) Try to handle if the element does **not exist** in the array.
 
-sort(arr.begin(), arr.end());
-
-
-4. Sort descending:
-
-sort(arr.begin(), arr.end(), greater<int>());
-
-
-5. Print results after each sort for verification.
+---
