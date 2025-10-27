@@ -1,23 +1,25 @@
+
+// Calculate the Sum and Average of Array Elements
+
 #include <iostream>
 #include <vector>
 using namespace std;
 
 int main () {
-    vector<int> array = {1, 2, 3, 4, 5};
-    int sum;
+    vector<int> array = {1, 2, 3, 41, 5};
+    int sum = 0;
+    float Average = 0;
 
-    cout << "Started..." << endl;
+    int n = array.size();
 
-    for(int i = 0; i < i+1; i++) {
+    for(int i = 0; i < n; i++) {
         sum = sum + array[i];
     }
+    
+    Average = (float) sum/n;
 
-    for(int val : array) {
-        cout << val << " ";
-    }
-    cout << "Loop end.." << endl;
     cout << endl;
-    cout << sum;
-    cout << endl;
+    cout << "Sum is :- " << sum << endl;
+    cout << "Average is :- " << Average << endl;
     return 0;
 }
