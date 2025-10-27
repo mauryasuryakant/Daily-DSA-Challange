@@ -33,6 +33,7 @@ Day-XX/
 | 4   | Sort an Array in Ascending and Descending Order | Array  | 🟡 Easy         |
 | 5   | Find the Frequency of an Element in an Array    | Array  | 🟡 Easy         |
 | 6   | Count Even and Odd Elements in an Array         | Array  | 🟢 Beginner     |
+| 6   | Calculate the Sum and Average of Array Elements | Array  | 🟢 Beginner     |
 | ... | Coming soon...                                  | ...    | ...             |
 
 ---
