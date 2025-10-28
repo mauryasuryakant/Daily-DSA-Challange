@@ -1,10 +1,3 @@
-Nice 🔥 — 8 days strong!
-You’ve covered a good foundation of **arrays** — today let’s add a small logical twist (still beginner-friendly) that mixes **arrays + conditional thinking**.
-
-Here’s your **Day 8 DSA Question (C++)** 👇
-
----
-
 ### By ChatGPT
 
 ### 🔹 **Day 8 DSA Question (C++)**
@@ -45,7 +38,3 @@ Odd numbers: 5 11 9
    * else → odd
 3. Use `.push_back()` for vectors to store results dynamically.
 4. Print both arrays clearly after separation.
-
----
-
-Would you like **Day 9** to stay on arrays or move to something new like **strings** or **loops & patterns** next?
