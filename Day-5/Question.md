@@ -3,7 +3,7 @@
 ### 🔹 **Day 5 DSA Question (C++)**
 
 **Topic:** Arrays (Searching + Logic Building)
-**Difficulty:** 🟡 Easy
+**Difficulty:** 🟡 Moderate
 
 #### 🧩 Problem: *Find the Frequency of an Element in an Array*
 

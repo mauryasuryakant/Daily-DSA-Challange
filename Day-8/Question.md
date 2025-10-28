@@ -3,7 +3,7 @@
 ### 🔹 **Day 8 DSA Question (C++)**
 
 **Topic:** Arrays (Even–Odd Separation + Logic Practice)
-**Difficulty:** 🟢 Beginner
+**Difficulty:** 🔵 Easy+
 
 #### 🧩 Problem: *Separate Even and Odd Numbers from an Array*
 

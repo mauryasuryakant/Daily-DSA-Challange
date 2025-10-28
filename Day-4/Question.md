@@ -3,7 +3,7 @@
 ### 🔹 **Day 4 DSA Question (C++)**
 
 **Topic:** Arrays (Sorting + Logic Building)
-**Difficulty:** 🟡 Easy
+**Difficulty:** 🔵 Easy+
 
 #### 🧩 Problem: *Sort an Array in Ascending and Descending Order*
 

@@ -3,7 +3,7 @@
 ### 🔹 **Day 3 DSA Question (C++)**
 
 **Topic:** Arrays (Basic + Two-Pointer Logic)
-**Difficulty:** 🟢 Beginner
+**Difficulty:** 🟢 Easy
 
 #### 🧩 Problem: *Reverse an Array*
 

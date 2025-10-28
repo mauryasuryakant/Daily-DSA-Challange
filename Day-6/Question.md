@@ -3,7 +3,7 @@
 ### 🔹 **Day 6 DSA Question (C++)**
 
 **Topic:** Arrays (Condition + Counting Logic)
-**Difficulty:** 🟢 Beginner
+**Difficulty:** 🟢 Easy
 
 #### 🧩 Problem: *Count Even and Odd Elements in an Array*
 
