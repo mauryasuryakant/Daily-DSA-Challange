@@ -73,4 +73,15 @@ If you’re also doing DSA or learning similar topics, feel free to connect and 
 Let’s grow together as better problem-solvers 💪
 
 
-<!-- 🟢🟡 -->
+<!-- | Level | Label             | Emoji | Description                                                                        |
+| ----- | ----------------- | ----- | ---------------------------------------------------------------------------------- |
+| 1️⃣   | **Beginner**      | 🟢    | Basic syntax, loops, conditionals, and array fundamentals.                         |
+| 2️⃣   | **Easy**          | 🟢    | Simple logic problems, clear patterns, and direct implementation.                  |
+| 3️⃣   | **Easy+**         | 🔵    | Slightly more logical depth — may include nested loops or simple data handling.    |
+| 4️⃣   | **Moderate**      | 🟡    | Involves clear reasoning and structured approach — ideal for logic-building.       |
+| 5️⃣   | **Intermediate**  | 🟠    | Requires strong understanding of arrays, maps, or sorting techniques.              |
+| 6️⃣   | **Intermediate+** | 🟣    | Multi-step problems or optimized approaches combining two concepts.                |
+| 7️⃣   | **Hard**          | 🔴    | Complex logic, recursion, or efficient algorithmic design required.                |
+| 8️⃣   | **Hard+**         | ⚫     | Problems involving optimization, advanced data structures, or tricky edge cases.   |
+| 9️⃣   | **Expert**        | 🔥    | Deep algorithmic knowledge needed — DP, graph traversal, or problem decomposition. |
+| 🔟    | **Master**        | 💀    | High-complexity problems demanding creativity, efficiency, and precision.          | -->
