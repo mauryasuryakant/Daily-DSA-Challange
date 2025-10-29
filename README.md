@@ -35,7 +35,7 @@ Day-XX/
 | 6   | Count Even and Odd Elements in an Array         | Array  | 🟢 Easy             |
 | 7   | Calculate the Sum and Average of Array Elements | Array  | 🟢 Beginner         |
 | 8   | Separate Even and Odd Numbers from an Array     | Array  | 🔵 Easy+            |
-| 8   | Find the Missing Number in a Sequence           | Array  | 🟠 Intermediate     |
+| 9   | Find the Missing Number in a Sequence           | Array  | 🟠 Intermediate     |
 | ... | Coming soon...                                  | ...    | ...                 |
 
 ---
