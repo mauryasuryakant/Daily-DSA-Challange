@@ -25,17 +25,18 @@ Day-XX/
 
 ## 📈 Progress Tracker
 
-| Day | Problem                                         | Topic  | Difficulty      |
-| --- | ----------------------------------------------- | ------ | --------------- |
-| 1   | Find the Largest Element in an Array            | Array  | 🟢 Beginner     |
-| 2   | Find the Second Largest Element in an Array     | Array  | 🟢 Easy         |
-| 3   | Reverse an Array                                | Array  | 🟢 Easy         |
-| 4   | Sort an Array in Ascending and Descending Order | Array  | 🔵 Easy+        |
-| 5   | Find the Frequency of an Element in an Array    | Array  | 🟡 Moderate     |
-| 6   | Count Even and Odd Elements in an Array         | Array  | 🟢 Easy         |
-| 7   | Calculate the Sum and Average of Array Elements | Array  | 🟢 Beginner     |
-| 8   | Separate Even and Odd Numbers from an Array     | Array  | 🔵 Easy+        |
-| ... | Coming soon...                                  | ...    | ...             |
+| Day | Problem                                         | Topic  | Difficulty          |
+| --- | ----------------------------------------------- | ------ | ---------------     |
+| 1   | Find the Largest Element in an Array            | Array  | 🟢 Beginner         |
+| 2   | Find the Second Largest Element in an Array     | Array  | 🟢 Easy             |
+| 3   | Reverse an Array                                | Array  | 🔵 Easy+            |
+| 4   | Sort an Array in Ascending and Descending Order | Array  | 🟡 Moderate         |
+| 5   | Find the Frequency of an Element in an Array    | Array  | 🟡 Moderate         |
+| 6   | Count Even and Odd Elements in an Array         | Array  | 🟢 Easy             |
+| 7   | Calculate the Sum and Average of Array Elements | Array  | 🟢 Beginner         |
+| 8   | Separate Even and Odd Numbers from an Array     | Array  | 🔵 Easy+            |
+| 8   | Find the Missing Number in a Sequence           | Array  | 🟠 Intermediate     |
+| ... | Coming soon...                                  | ...    | ...                 |
 
 ---
 
