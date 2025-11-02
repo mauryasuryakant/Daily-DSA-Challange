@@ -27,6 +27,9 @@ int main() {
 
     std::set_intersection(arr1.begin(), arr1.end(), arr2.begin(), arr2.end(), std::back_inserter(Intersection));
 
+    std::vector<int>::iterator it = std::unique(Intersection.begin(), Intersection.end());
+    Intersection.erase(it, Intersection.end());
+
     // for(int i = 0; i < n; i++){
     //     for(int val : arr1){
     //         if(arr1[i] == arr2[i]){
