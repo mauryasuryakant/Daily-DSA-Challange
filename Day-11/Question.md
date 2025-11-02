@@ -1,7 +1,7 @@
 ### 🔹 **Day 11 DSA Question (C++)**
 
 **Topic:** Arrays — Prefix Sum
-**Difficulty:** 🟡 Moderate
+**Difficulty:** 🟣 Intermediate+
 
 ---
 

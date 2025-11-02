@@ -1,3 +1,8 @@
+// Incomplete
+
+
+// Find the Equilibrium Index of an Array
+
 #include <iostream>
 #include <vector>
 

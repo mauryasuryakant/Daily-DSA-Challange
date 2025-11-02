@@ -37,7 +37,7 @@ Day-XX/
 | 8    | Separate Even and Odd Numbers from an Array     | Array  | 🔵 Easy+            |
 | 9    | Find the Missing Number in a Sequence           | Array  | 🟠 Intermediate     |
 | 10   | Merge Two Sorted Arrays                         | Array  | 🔵 Easy+            |
-| 11   | Find the Equilibrium Index of an Array          | Array  | 🟡 Moderate         |
+| 11   | Find the Equilibrium Index of an Array          | Array  | 🟣 Intermediate+    |
 | 12   | Maximum Subarray Sum (Kadane’s Algorithm)       | Array  | 🟠 Intermediate     |
 | 13   | Find the Intersection of Two Arrays             | Array  | 🟠 Intermediate     |
 | ...  | Coming soon...                                  | ...    | ...                 |
