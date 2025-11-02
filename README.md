@@ -39,6 +39,7 @@ Day-XX/
 | 10   | Merge Two Sorted Arrays                         | Array  | 🔵 Easy+            |
 | 11   | Find the Equilibrium Index of an Array          | Array  | 🟡 Moderate         |
 | 12   | Maximum Subarray Sum (Kadane’s Algorithm)       | Array  | 🟠 Intermediate     |
+| 13   | Find the Intersection of Two Arrays             | Array  | 🟠 Intermediate     |
 | ...  | Coming soon...                                  | ...    | ...                 |
 
 ---
