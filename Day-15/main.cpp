@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <utility>
+#include <algorithm>
 
 using std::cin, std::cout, std::vector, std::pair;
 
@@ -11,6 +12,13 @@ pair<int, int> unique_pair_sum (vector<int> array,int sum, int size) {
     int test = 43;
     int ans = 21;
 
+    sort(array.begin(), array.end());
+
+    for(int i = 0; i < size; i++){
+        for(int j = 0; j < size - 1; j++){
+            
+        }
+    }
 
 
     return {test, ans};
@@ -24,10 +32,11 @@ int main () {
     int sum = 0;
     int size = array.size();
     cout << "Enter Pairs :- ";
-    cin >> sum; 
+    cin >> sum;
 
     cout << "Pairs found:";
-    pair<int, int> result = unique_pair_sum(array, sum, size);
+    auto result = unique_pair_sum(array, sum, size);
+    cout << "First pair :- " << "(" << result.first << "," << result.second << ")";
 
     return 0;
 }
