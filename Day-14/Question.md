@@ -1,3 +1,5 @@
+### By ChatGPT
+
 ### 🔹 **Day 14 DSA Challenge (C++)**
 
 **Topic:** Arrays — Searching

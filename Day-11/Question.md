@@ -1,3 +1,5 @@
+### By ChatGPT
+
 ### 🔹 **Day 11 DSA Question (C++)**
 
 **Topic:** Arrays — Prefix Sum

@@ -1,3 +1,5 @@
+### By ChatGPT
+
 ### 🔹 **Day 12 DSA Question (C++)**
 
 **Topic:** Arrays (Prefix Sum + Optimization Logic)
