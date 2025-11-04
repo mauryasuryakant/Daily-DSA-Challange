@@ -11,7 +11,7 @@ pair<int, int> unique_pair_sum (vector<int> array,int sum, int size) {
     int test = 43;
     int ans = 21;
 
-    
+
 
     return {test, ans};
 
@@ -24,7 +24,7 @@ int main () {
     int sum = 0;
     int size = array.size();
     cout << "Enter Pairs :- ";
-    cin >> sum;
+    cin >> sum; 
 
     cout << "Pairs found:";
     pair<int, int> result = unique_pair_sum(array, sum, size);
