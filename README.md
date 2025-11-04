@@ -25,24 +25,24 @@ Day-XX/
 
 ## 📈 Progress Tracker
 
-| Day  | Problem                                           | Topic  | Difficulty          |
-| ---  | ------------------------------------------------- | ------ | ---------------     |
-| 1    | Find the Largest Element in an Array              | Array  | 🟢 Beginner         |
-| 2    | Find the Second Largest Element in an Array       | Array  | 🟢 Easy             |
-| 3    | Reverse an Array                                  | Array  | 🔵 Easy+            |
-| 4    | Sort an Array in Ascending and Descending Order   | Array  | 🟡 Moderate         |
-| 5    | Find the Frequency of an Element in an Array      | Array  | 🟡 Moderate         |
-| 6    | Count Even and Odd Elements in an Array           | Array  | 🟢 Easy             |
-| 7    | Calculate the Sum and Average of Array Elements   | Array  | 🟢 Beginner         |
-| 8    | Separate Even and Odd Numbers from an Array       | Array  | 🔵 Easy+            |
-| 9    | Find the Missing Number in a Sequence             | Array  | 🟠 Intermediate     |
-| 10   | Merge Two Sorted Arrays                           | Array  | 🔵 Easy+            |
-| 11   | Find the Equilibrium Index of an Array            | Array  | 🟣 Intermediate+    |
-| 12   | Maximum Subarray Sum (Kadane’s Algorithm)         | Array  | 🟠 Intermediate     |
-| 13   | Find the Intersection of Two Arrays               | Array  | 🟠 Intermediate     |
-| 14   | Find the First and Last Occurrence of an Element  | Array  | 🟡 Moderate         |
-| 14   | Find the First and Last Occurrence of an Element  | Array  | 🔴 Hard             |
-| ...  | Coming soon...                                    | ...    | ...                 |
+| Day  | Problem                                                | Topic  | Difficulty          |
+| ---  | ------------------------------------------------------ | ------ | ---------------     |
+| 1    | Find the Largest Element in an Array                   | Array  | 🟢 Beginner         |
+| 2    | Find the Second Largest Element in an Array            | Array  | 🟢 Easy             |
+| 3    | Reverse an Array                                       | Array  | 🔵 Easy+            |
+| 4    | Sort an Array in Ascending and Descending Order        | Array  | 🟡 Moderate         |
+| 5    | Find the Frequency of an Element in an Array           | Array  | 🟡 Moderate         |
+| 6    | Count Even and Odd Elements in an Array                | Array  | 🟢 Easy             |
+| 7    | Calculate the Sum and Average of Array Elements        | Array  | 🟢 Beginner         |
+| 8    | Separate Even and Odd Numbers from an Array            | Array  | 🔵 Easy+            |
+| 9    | Find the Missing Number in a Sequence                  | Array  | 🟠 Intermediate     |
+| 10   | Merge Two Sorted Arrays                                | Array  | 🔵 Easy+            |
+| 11   | Find the Equilibrium Index of an Array                 | Array  | 🟣 Intermediate+    |
+| 12   | Maximum Subarray Sum (Kadane’s Algorithm)              | Array  | 🟠 Intermediate     |
+| 13   | Find the Intersection of Two Arrays                    | Array  | 🟠 Intermediate     |
+| 14   | Find the First and Last Occurrence of an Element       | Array  | 🟡 Moderate         |
+| 14   | Find All Unique Pairs with Given Sum (Unsorted Array)  | Array  | 🔴 Hard             |
+| ...  | Coming soon...                                         | ...    | ...                 |
 
 ---
 
