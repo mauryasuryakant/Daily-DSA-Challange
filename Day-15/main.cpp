@@ -9,20 +9,21 @@
 using std::cin, std::cout, std::vector, std::pair;
 
 pair<int, int> unique_pair_sum (vector<int> array,int sum, int size) {
-    int test = 43;
-    int ans = 21;
 
-    sort(array.begin(), array.end());
+    int resultfirst = 0;
+    int resultsecond = 0;
 
     for(int i = 0; i < size; i++){
-        for(int j = 0; j < size - 1; j++){
-            
+        for(int j = i +1; j < size; j++){
+            int temp = array[i] + array[j];
+            if(temp == sum){
+                resultfirst = array[i];
+                resultsecond = array[j];
+                return {resultfirst, resultsecond};
+            }
         }
     }
-
-
-    return {test, ans};
-
+    return {resultfirst, resultsecond};
 }
 
 
@@ -34,9 +35,14 @@ int main () {
     cout << "Enter Pairs :- ";
     cin >> sum;
 
-    cout << "Pairs found:";
     auto result = unique_pair_sum(array, sum, size);
-    cout << "First pair :- " << "(" << result.first << "," << result.second << ")";
+
+    if(result.first != 0 && result.second != 0){
+        cout << "Found pairs :- " << "(" << result.first << "," << result.second << ")";
+    }
+    else{
+        cout << "No pair found in array.";
+    }
 
     return 0;
 }
