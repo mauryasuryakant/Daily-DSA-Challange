@@ -41,6 +41,7 @@ Day-XX/
 | 12   | Maximum Subarray Sum (Kadane’s Algorithm)         | Array  | 🟠 Intermediate     |
 | 13   | Find the Intersection of Two Arrays               | Array  | 🟠 Intermediate     |
 | 14   | Find the First and Last Occurrence of an Element  | Array  | 🟡 Moderate         |
+| 14   | Find the First and Last Occurrence of an Element  | Array  | 🔴 Hard             |
 | ...  | Coming soon...                                    | ...    | ...                 |
 
 ---
