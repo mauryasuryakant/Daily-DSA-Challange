@@ -42,6 +42,7 @@ Day-XX/
 | 13   | Find the Intersection of Two Arrays                    | Array  | 🟠 Intermediate     |
 | 14   | Find the First and Last Occurrence of an Element       | Array  | 🟡 Moderate         |
 | 15   | Find All Unique Pairs with Given Sum (Unsorted Array)  | Array  | 🔴 Hard             |
+| 16   | Find the Intersection of Two Arrays                    | Array  | 🟠 Intermediate     |
 | ...  | Coming soon...                                         | ...    | ...                 |
 
 ---
