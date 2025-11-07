@@ -25,26 +25,27 @@ Day-XX/
 
 ## 📈 Progress Tracker
 
-| Day  | Problem                                                | Topic  | Difficulty          |
-| ---  | ------------------------------------------------------ | ------ | ---------------     |
-| 1    | Find the Largest Element in an Array                   | Array  | 🟢 Beginner         |
-| 2    | Find the Second Largest Element in an Array            | Array  | 🟢 Easy             |
-| 3    | Reverse an Array                                       | Array  | 🔵 Easy+            |
-| 4    | Sort an Array in Ascending and Descending Order        | Array  | 🟡 Moderate         |
-| 5    | Find the Frequency of an Element in an Array           | Array  | 🟡 Moderate         |
-| 6    | Count Even and Odd Elements in an Array                | Array  | 🟢 Easy             |
-| 7    | Calculate the Sum and Average of Array Elements        | Array  | 🟢 Beginner         |
-| 8    | Separate Even and Odd Numbers from an Array            | Array  | 🔵 Easy+            |
-| 9    | Find the Missing Number in a Sequence                  | Array  | 🟠 Intermediate     |
-| 10   | Merge Two Sorted Arrays                                | Array  | 🔵 Easy+            |
-| 11   | Find the Equilibrium Index of an Array                 | Array  | 🟣 Intermediate+    |
-| 12   | Maximum Subarray Sum (Kadane’s Algorithm)              | Array  | 🟠 Intermediate     |
-| 13   | Find the Intersection of Two Arrays                    | Array  | 🟠 Intermediate     |
-| 14   | Find the First and Last Occurrence of an Element       | Array  | 🟡 Moderate         |
-| 15   | Find All Unique Pairs with Given Sum (Unsorted Array)  | Array  | 🔴 Hard             |
-| 16   | Find the Intersection of Two Arrays                    | Array  | 🟠 Intermediate     |
-| 17   | Find the Majority Element in an Array                  | Array  | 🟠 Intermediate     |
-| ...  | Coming soon...                                         | ...    | ...                 |
+| Day | Problem                                               | Topic | Difficulty  |
+| --- | ----------------------------------------------------- | ----- | ----------- |
+| 1   | Find the Largest Element in an Array                  | Array | 🟢 Beginner |
+| 2   | Find the Second Largest Element in an Array           | Array | 🔵 Easy     |
+| 3   | Reverse an Array                                      | Array | 🔵 Easy     |
+| 4   | Sort an Array in Ascending and Descending Order       | Array | 🟡 Medium   |
+| 5   | Find the Frequency of an Element in an Array          | Array | 🔵 Easy     |
+| 6   | Count Even and Odd Elements in an Array               | Array | 🟢 Beginner |
+| 7   | Calculate the Sum and Average of Array Elements       | Array | 🟢 Beginner |
+| 8   | Separate Even and Odd Numbers from an Array           | Array | 🔵 Easy     |
+| 9   | Find the Missing Number in a Sequence                 | Array | 🟡 Medium   |
+| 10  | Merge Two Sorted Arrays                               | Array | 🟡 Medium   |
+| 11  | Find the Equilibrium Index of an Array                | Array | 🔴 Hard     |
+| 12  | Maximum Subarray Sum (Kadane’s Algorithm)             | Array | 🔴 Hard     |
+| 13  | Find the Intersection of Two Arrays                   | Array | 🟡 Medium   |
+| 14  | Find the First and Last Occurrence of an Element      | Array | 🟡 Medium   |
+| 15  | Find All Unique Pairs with Given Sum (Unsorted Array) | Array | 🔴 Hard     |
+| 16  | Find the Intersection of Two Arrays (Optimized)       | Array | 🟡 Medium   |
+| 17  | Find the Majority Element in an Array                 | Array | 🟡 Medium   |
+| 18  | Find the Equilibrium Index of an Array                | Array | 🟡 Medium   |
+| ... | Coming soon...                                        | ...   | ...         |
 
 ---
 
@@ -81,16 +82,12 @@ This project is licensed under the **MIT License** — feel free to learn from a
 If you’re also doing DSA or learning similar topics, feel free to connect and collaborate!
 Let’s grow together as better problem-solvers 💪
 
-
-<!-- | Level | Label             | Emoji | Description                                                                        |
-| ----- | ----------------- | ----- | ---------------------------------------------------------------------------------- |
-| 1️⃣   | **Beginner**      | 🟢    | Basic syntax, loops, conditionals, and array fundamentals.                         |
-| 2️⃣   | **Easy**          | 🟢    | Simple logic problems, clear patterns, and direct implementation.                  |
-| 3️⃣   | **Easy+**         | 🔵    | Slightly more logical depth — may include nested loops or simple data handling.    |
-| 4️⃣   | **Moderate**      | 🟡    | Involves clear reasoning and structured approach — ideal for logic-building.       |
-| 5️⃣   | **Intermediate**  | 🟠    | Requires strong understanding of arrays, maps, or sorting techniques.              |
-| 6️⃣   | **Intermediate+** | 🟣    | Multi-step problems or optimized approaches combining two concepts.                |
-| 7️⃣   | **Hard**          | 🔴    | Complex logic, recursion, or efficient algorithmic design required.                |
-| 8️⃣   | **Hard+**         | ⚫     | Problems involving optimization, advanced data structures, or tricky edge cases.   |
-| 9️⃣   | **Expert**        | 🔥    | Deep algorithmic knowledge needed — DP, graph traversal, or problem decomposition. |
-| 🔟    | **Master**        | 💀    | High-complexity problems demanding creativity, efficiency, and precision.          | -->
+<!-- 
+| Level | Label         | Emoji | Description                                                                                                            |
+| ----- | ------------- | ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1️⃣   | **Beginner**  | 🟢    | Basic syntax and logic — loops, conditionals, array traversal, or simple patterns. Ideal for warm-up and fundamentals. |
+| 2️⃣   | **Easy**      | 🔵    | Straightforward problems requiring direct implementation or basic logic combinations. Builds comfort and speed.        |
+| 3️⃣   | **Medium**    | 🟡    | Requires structured reasoning, efficient use of data structures (arrays, maps, sets), or multiple steps to solve.      |
+| 4️⃣   | **Hard**      | 🔴    | Demands algorithmic thinking — optimization, recursion, or combining multiple concepts efficiently.                    |
+| 5️⃣   | **Very Hard** | ⚫     | Advanced algorithm design (e.g., DP, graph theory, backtracking). Tests deep understanding, precision, and creativity. |
+ -->
