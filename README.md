@@ -45,6 +45,7 @@ Day-XX/
 | 16  | Find the Intersection of Two Arrays (Optimized)       | Array | 🟡 Medium   |
 | 17  | Find the Majority Element in an Array                 | Array | 🟡 Medium   |
 | 18  | Find the Equilibrium Index of an Array                | Array | 🟡 Medium   |
+| 19  | Find the Position of an Element Using Binary Search   | Array | 🟡 Medium   |
 | ... | Coming soon...                                        | ...   | ...         |
 
 ---
