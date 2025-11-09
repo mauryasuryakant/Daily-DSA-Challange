@@ -46,6 +46,7 @@ Day-XX/
 | 17  | Find the Majority Element in an Array                 | Array | 🟡 Medium   |
 | 18  | Find the Equilibrium Index of an Array                | Array | 🟡 Medium   |
 | 19  | Find the Position of an Element Using Binary Search   | Array | 🟡 Medium   |
+| 20  | Count Elements Greater Than Average                   | Array | 🟢 Easy     |
 | ... | Coming soon...                                        | ...   | ...         |
 
 ---
