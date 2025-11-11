@@ -1,3 +1,6 @@
+
+// Find a Pair with Given Sum (Sorted Array)
+
 #include <iostream>
 #include <vector>
 #include <utility>
@@ -32,7 +35,7 @@ int main () {
 
     auto answer = FindPair(array, n, target);
 
-    std::cout << "The answer is :- " << "{" << answer << "}";
+    std::cout << "The answer is :- " << "{" << answer.first << "," << answer.second << "}";
 
     return 0;
 }

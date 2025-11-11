@@ -47,6 +47,8 @@ Day-XX/
 | 18  | Find the Equilibrium Index of an Array                | Array | 🟡 Medium   |
 | 19  | Find the Position of an Element Using Binary Search   | Array | 🟡 Medium   |
 | 20  | Count Elements Greater Than Average                   | Array | 🟢 Easy     |
+| 20  | Find a Pair with Given Sum (Sorted Array)             | Array | 🟡 Medium   |
+| 20  | Find the Longest Subarray with Sum = K                | Array | 🟡 Medium   |
 | ... | Coming soon...                                        | ...   | ...         |
 
 ---
