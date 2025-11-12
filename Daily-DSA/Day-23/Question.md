@@ -1,16 +1,14 @@
 🔹 **Day 23 DSA Challenge (C++)**
 
-**Topic:** Sliding Window — Longest Subarray with Sum ≤ K
+**Topic:** Hashing — Count Subarrays with Equal 0s and 1s
 **Difficulty:** 🟡 Medium
 
 ---
 
-🧩 **Problem:** Find the Longest Subarray with Sum ≤ K
+🧩 **Problem:** Count Subarrays with Equal Number of 0s and 1s
 
-You are given an integer array `arr[]` and an integer `K`.
-Your task is to find the **length of the longest subarray** whose sum is **less than or equal to K**.
-
-If no such subarray exists, return `0`.
+You are given a binary array `arr[]` (containing only 0s and 1s).
+Your task is to find the **total number of subarrays** that contain **an equal number of 0s and 1s**.
 
 ---
 
@@ -19,20 +17,24 @@ If no such subarray exists, return `0`.
 **Input:**
 
 ```
-arr = {2, 5, 1, 7, 10}  
-K = 14
+arr = {0, 1, 0, 1}
 ```
 
 **Output:**
 
 ```
-3
+4
 ```
 
 **Explanation:**
-Subarray `{2, 5, 1}` has sum = 8 ≤ 14,
-Subarray `{5, 1, 7}` has sum = 13 ≤ 14,
-The longest valid length is **3**.
+The valid subarrays are:
+
+* `{0, 1}` (indices 0–1)
+* `{1, 0}` (indices 1–2)
+* `{0, 1}` (indices 2–3)
+* `{0, 1, 0, 1}` (indices 0–3)
+
+Total = **4 subarrays**
 
 ---
 
@@ -41,26 +43,25 @@ The longest valid length is **3**.
 **Input:**
 
 ```
-arr = {4, 3, 2, 6}  
-K = 5
+arr = {0, 0, 1, 0, 1, 1, 0}
 ```
 
 **Output:**
 
 ```
-2
+8
 ```
 
 **Explanation:**
-Subarray `{3, 2}` has sum = 5 ≤ 5, which is the longest possible.
+There are **8 subarrays** where the count of 0s and 1s is equal.
 
 ---
 
 ⚙️ **Hints:**
 
-* Use **two pointers** (start, end) to represent a sliding window.
-* Maintain a **current_sum** of elements inside the window.
-* When `current_sum > K`, shrink the window from the left until it becomes ≤ K.
+* Replace every `0` in the array with `-1`.
+* The problem then reduces to **counting subarrays with sum = 0**.
+* Use an **unordered_map** to store prefix sums and their frequencies.
 
 **Time Complexity:** O(n)
-**Space Complexity:** O(1)
+**Space Complexity:** O(n)
