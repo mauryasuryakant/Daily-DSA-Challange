@@ -10,7 +10,7 @@ int main () {
         for(int j = i; i < n; j++){
             std::cout << array[i];
         }
-        
+         
     }
 
     return 0; 
