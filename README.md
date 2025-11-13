@@ -50,6 +50,7 @@ Day-XX/
 | 21  | Find a Pair with Given Sum (Sorted Array)             | Array | 🟡 Medium   |
 | 22  | Find the Longest Subarray with Sum = K                | Array | 🟡 Medium   |
 | 23  | Count Subarrays with Equal Number of 0s and 1s        | Array | 🟡 Medium   |
+| 23  | Find Maximum Sum Subarray of Size K                   | Array | 🔵 Easy     |
 | ... | Coming soon...                                        | ...   | ...         |
 
 ---
