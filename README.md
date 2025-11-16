@@ -54,6 +54,7 @@ Day-XX/
 | 23  | Count Subarrays with Equal Number of 0s and 1s        | Array | 🟡 Medium   |
 | 24  | Find Maximum Sum Subarray of Size K                   | Array | 🔵 Easy     |
 | 25  | Sliding Window Distinct Count                         | Array | 🟡 Medium   |
+| 26  | Find the Unique Element                               | Array | 🟡 Medium   |
 | ... | Coming soon...                                        | ...   | ...         |
 
 ---
