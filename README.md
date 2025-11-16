@@ -27,35 +27,36 @@ Day-XX/
 
 ## 📈 Progress Tracker
 
-| Day | Problem                                               | Topic | Difficulty  |
-| --- | ----------------------------------------------------- | ----- | ----------- |
-| 1   | Find the Largest Element in an Array                  | Array | 🟢 Beginner |
-| 2   | Find the Second Largest Element in an Array           | Array | 🔵 Easy     |
-| 3   | Reverse an Array                                      | Array | 🔵 Easy     |
-| 4   | Sort an Array in Ascending and Descending Order       | Array | 🟡 Medium   |
-| 5   | Find the Frequency of an Element in an Array          | Array | 🔵 Easy     |
-| 6   | Count Even and Odd Elements in an Array               | Array | 🟢 Beginner |
-| 7   | Calculate the Sum and Average of Array Elements       | Array | 🟢 Beginner |
-| 8   | Separate Even and Odd Numbers from an Array           | Array | 🔵 Easy     |
-| 9   | Find the Missing Number in a Sequence                 | Array | 🟡 Medium   |
-| 10  | Merge Two Sorted Arrays                               | Array | 🟡 Medium   |
-| 11  | Find the Equilibrium Index of an Array                | Array | 🔴 Hard     |
-| 12  | Maximum Subarray Sum (Kadane’s Algorithm)             | Array | 🔴 Hard     |
-| 13  | Find the Intersection of Two Arrays                   | Array | 🟡 Medium   |
-| 14  | Find the First and Last Occurrence of an Element      | Array | 🟡 Medium   |
-| 15  | Find All Unique Pairs with Given Sum (Unsorted Array) | Array | 🔴 Hard     |
-| 16  | Find the Intersection of Two Arrays (Optimized)       | Array | 🟡 Medium   |
-| 17  | Find the Majority Element in an Array                 | Array | 🟡 Medium   |
-| 18  | Find the Equilibrium Index of an Array                | Array | 🟡 Medium   |
-| 19  | Find the Position of an Element Using Binary Search   | Array | 🟡 Medium   |
-| 20  | Count Elements Greater Than Average                   | Array | 🔵 Easy     |
-| 21  | Find a Pair with Given Sum (Sorted Array)             | Array | 🟡 Medium   |
-| 22  | Find the Longest Subarray with Sum = K                | Array | 🟡 Medium   |
-| 23  | Count Subarrays with Equal Number of 0s and 1s        | Array | 🟡 Medium   |
-| 24  | Find Maximum Sum Subarray of Size K                   | Array | 🔵 Easy     |
-| 25  | Sliding Window Distinct Count                         | Array | 🟡 Medium   |
-| 26  | Find the Unique Element                               | Array | 🟡 Medium   |
-| ... | Coming soon...                                        | ...   | ...         |
+| Day | Problem                                               | Topic  | Difficulty  |
+| --- | ----------------------------------------------------- | -----  | ----------- |
+| 1   | Find the Largest Element in an Array                  | Array  | 🟢 Beginner |
+| 2   | Find the Second Largest Element in an Array           | Array  | 🔵 Easy     |
+| 3   | Reverse an Array                                      | Array  | 🔵 Easy     |
+| 4   | Sort an Array in Ascending and Descending Order       | Array  | 🟡 Medium   |
+| 5   | Find the Frequency of an Element in an Array          | Array  | 🔵 Easy     |
+| 6   | Count Even and Odd Elements in an Array               | Array  | 🟢 Beginner |
+| 7   | Calculate the Sum and Average of Array Elements       | Array  | 🟢 Beginner |
+| 8   | Separate Even and Odd Numbers from an Array           | Array  | 🔵 Easy     |
+| 9   | Find the Missing Number in a Sequence                 | Array  | 🟡 Medium   |
+| 10  | Merge Two Sorted Arrays                               | Array  | 🟡 Medium   |
+| 11  | Find the Equilibrium Index of an Array                | Array  | 🔴 Hard     |
+| 12  | Maximum Subarray Sum (Kadane’s Algorithm)             | Array  | 🔴 Hard     |
+| 13  | Find the Intersection of Two Arrays                   | Array  | 🟡 Medium   |
+| 14  | Find the First and Last Occurrence of an Element      | Array  | 🟡 Medium   |
+| 15  | Find All Unique Pairs with Given Sum (Unsorted Array) | Array  | 🔴 Hard     |
+| 16  | Find the Intersection of Two Arrays (Optimized)       | Array  | 🟡 Medium   |
+| 17  | Find the Majority Element in an Array                 | Array  | 🟡 Medium   |
+| 18  | Find the Equilibrium Index of an Array                | Array  | 🟡 Medium   |
+| 19  | Find the Position of an Element Using Binary Search   | Array  | 🟡 Medium   |
+| 20  | Count Elements Greater Than Average                   | Array  | 🔵 Easy     |
+| 21  | Find a Pair with Given Sum (Sorted Array)             | Array  | 🟡 Medium   |
+| 22  | Find the Longest Subarray with Sum = K                | Array  | 🟡 Medium   |
+| 23  | Count Subarrays with Equal Number of 0s and 1s        | Array  | 🟡 Medium   |
+| 24  | Find Maximum Sum Subarray of Size K                   | Array  | 🔵 Easy     |
+| 25  | Sliding Window Distinct Count                         | Array  | 🟡 Medium   |
+| 26  | Find the Unique Element                               | Array  | 🟡 Medium   |
+| 27  | Find the Longest Word in a Sentence                   | String | 🔵 Easy     |
+| ... | Coming soon...                                        | ...    | ...         |
 
 ---
 
