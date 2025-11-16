@@ -1,16 +1,21 @@
-@"
-package main
+﻿package main
 
 import (
-    "github.com/webview/webview"
+	"path/filepath"
+
+	webview "github.com/webview/webview_go"
 )
 
 func main() {
-    w := webview.New(true)
-    defer w.Destroy()
-    w.SetTitle("My First Webview App")
-    w.SetSize(600, 400, webview.HintNone)
-    w.Navigate("https://example.com")
-    w.Run()
+	w := webview.New(true)
+	defer w.Destroy()
+
+	w.SetTitle("My Local HTML App")
+	w.SetSize(600, 400, webview.HintNone)
+
+	// convert local file to file:/// path
+	path, _ := filepath.Abs("ui/index.html")
+	w.Navigate("file:///" + path)
+
+	w.Run()
 }
-"@ | Out-File -Encoding utf8 main.go
